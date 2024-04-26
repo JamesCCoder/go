@@ -1,0 +1,7 @@
+POST http://localhost:8081/events
+
+{
+  "name": "Test event",
+  "description": "A test event",
+  "dateTime": "2025-01-01T15:30:00.000Z"  
+}
